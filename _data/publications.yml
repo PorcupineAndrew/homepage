@@ -7,14 +7,14 @@ main:
     pdf: https://drive.google.com/file/d/1Q-KsPkXjgpsazmTb6JMXIFQ-PIywImVc/view?usp=sharing
     code: https://github.com/anonymized-for-review/stealthy-bgp-hijacking
     image: ./assets/img/teaser_ndss26.png
-    notes: "  To Appear"
+    notes: "To Appear"
     
   - title: "Research on Lightweight Consensus Mechanism based on Validated Address"
     authors: Yi Xu, <b><u>Yihao Chen</u></b>, Xiaoliang Wang, Ke Xu, Qi Li
     conference_short: JOS
     conference: The Journal of Software (ISSN 1000-9825; in Chinese)
     image: ./assets/img/teaser_jos.png
-    notes: "  To Appear"
+    notes: "To Appear"
 
   - title: "Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System"
     authors: <b><u>Yihao Chen</u></b>, Qilei Yin, Qi Li, Zhuotao Liu, Ke Xu, Yi Xu, Mingwei Xu, Ziqian Liu, Jianping Wu
@@ -23,7 +23,7 @@ main:
     pdf: https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao
     code: https://github.com/yhchen-tsinghua/routing-anomaly-detection
     image: ./assets/img/teaser_sec24.png
-    notes: "  Distinguished Paper Award & Internet Defense Prize"
+    notes: "Distinguished Paper Award & Internet Defense Prize"
 
   - title: "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic"
     authors: Yuqi Qing, Qilei Yin, Xinhao Deng, <b><u>Yihao Chen</u></b>, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li
