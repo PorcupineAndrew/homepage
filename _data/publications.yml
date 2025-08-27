@@ -1,38 +1,42 @@
 main:
 
-  - title: Understanding the Stealthy BGP Hijacking Risk in the ROV Era
+  - title: "Understanding the Stealthy BGP Hijacking Risk in the ROV Era"
     authors: <b><u>Yihao Chen</u></b>, Qi Li, Ke Xu, Zhuotao Liu, Jianping Wu
     conference_short: NDSS
-    conference: Network and Distributed System Security Symposium 2026 (NDSS'26).
+    conference: The Network and Distributed System Security Symposium 2026 (NDSS'26)
     pdf: https://drive.google.com/file/d/1Q-KsPkXjgpsazmTb6JMXIFQ-PIywImVc/view?usp=sharing
     code: https://github.com/anonymized-for-review/stealthy-bgp-hijacking
     image: ./assets/img/teaser_ndss26.png
-    notes: To Appear
+    notes: "  To Appear"
     
-  - title: Research on Lightweight Consensus Mechanism based on Validated Address
+  - title: "Research on Lightweight Consensus Mechanism based on Validated Address"
     authors: Yi Xu, <b><u>Yihao Chen</u></b>, Xiaoliang Wang, Ke Xu, Qi Li
     conference_short: JOS
-    conference: Journal of Software (ISSN 1000-9825; in Chinese)
+    conference: The Journal of Software (ISSN 1000-9825; in Chinese)
     image: ./assets/img/teaser_jos.png
-    notes: To Appear
+    notes: "  To Appear"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System"
+    authors: <b><u>Yihao Chen</u></b>, Qilei Yin, Qi Li, Zhuotao Liu, Ke Xu, Yi Xu, Mingwei Xu, Ziqian Liu, Jianping Wu
+    conference_short: USENIX Security
+    conference: The 33rd USENIX Security Symposium (USENIX Security'24)
+    pdf: https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao
+    code: https://github.com/yhchen-tsinghua/routing-anomaly-detection
+    image: ./assets/img/teaser_sec24.png
+    notes: "  Distinguished Paper Award & Internet Defense Prize"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic"
+    authors: Yuqi Qing, Qilei Yin, Xinhao Deng, <b><u>Yihao Chen</u></b>, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li
+    conference_short: NDSS
+    conference: The Network and Distributed System Security Symposium 2024 (NDSS'24)
+    pdf: https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/
+    code: https://github.com/XXnormal/RAPIER
+    image: ./assets/img/teaser_ndss24.png
+
+  - title: "Generic and Robust Root Cause Localization for Multi-Dimensional Data in Online Service Systems"
+    authors: Zeyan Li, Junjie Chen, Yihao Chen, Chengyang Luo, Yiwei Zhao, Yongqian Sun, Kaixin Sui, Xiping Wang, Dapeng Liu, Xing Jin, Qi Wang, Dan Pei 
+    conference_short: JSS
+    conference: "The Journal of Systems and Software 203 (2023): 111748"
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0164121223001437
+    code: https://github.com/netmanaiops/psqueeze
+    image: ./assets/img/teaser_jss.png
