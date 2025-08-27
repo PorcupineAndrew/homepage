@@ -12,4 +12,6 @@ Hi! I am a Ph.D. candidate in Computer Science at Tsinghua University (expected 
 
 {% include_relative _includes/education.md %}
 
+{% include_relative _includes/honors_and_awards.md %}
+
 {% include_relative _includes/services.md %}
