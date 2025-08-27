@@ -14,6 +14,11 @@
   line-height:2.5rem;
   margin-right:1rem}
 
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
@@ -162,12 +167,10 @@ papertitle {
     body {
         background-color: #20212b;
         color: #dadbdf;
-        max-width: 1200px;
-        margin: 0 auto;
     }
 
     autocolor{
-      color:#dadbdf;
+      color: #dadbdf;
     }
 
     lightonly {
@@ -179,7 +182,7 @@ papertitle {
     }
 
     papertitle {
-    color:#eeeff0;
+    color: #eeeff0;
     }
 
 }
