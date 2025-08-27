@@ -73,7 +73,7 @@
   position: relative;
   transition: transform 0.3s ease;
   z-index: auto;
-  font-size: 0.95em
+  font-size: 1em
 }
 
 .news-item:hover .news-content {
