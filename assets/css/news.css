@@ -1,0 +1,95 @@
+.news-timeline {
+  position: relative; 
+  display: block; 
+  clear: both; 
+  margin: 2em 0 3em 0;
+  max-height:150px; 
+  overflow-y: auto; 
+  padding-right: 10px;
+  padding-bottom: 20px; 
+  scroll-behavior: smooth;
+  pointer-events: auto;
+  -webkit-mask-image: linear-gradient(to bottom, #000 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 85%, transparent 100%);
+  isolation: isolate;
+  z-index: 0
+}
+
+.news-timeline::-webkit-scrollbar {
+  width: 6px
+}
+
+.news-timeline::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px
+}
+
+.news-timeline::-webkit-scrollbar-thumb {
+  background: rgba(0,50,98,0.5);
+  border-radius:10px
+}
+
+.news-timeline::-webkit-scrollbar-thumb:hover {
+  background: rgba(0,50,98,0.7)
+}
+
+.news-timeline::before {
+  content: ''; 
+  position: absolute; 
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1.5px;
+  background-color: rgba(0,50,98,0.3);
+  z-index: auto;
+  height: 100%;
+  transform: translateX(1.1rem)
+}
+
+.news-item {
+  position: relative; 
+  margin-bottom: 0.8rem;
+  padding-left: 2.5rem;
+  z-index: auto
+}
+
+.news-item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.35rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background-color: #003262;
+  transform: translateX(0.8rem);
+  transition: all 0.3s ease;
+  z-index: 1
+}
+
+.news-item:hover::before {
+  background-color: #00182f;
+  transform: translateX(0.8rem) scale(1.2)
+}
+
+.news-date {
+  font-weight: 600;
+  color: #003262;
+  margin-bottom: 0.1rem;
+  font-size: 0.85em;
+  position: relative;
+  z-index: auto
+}
+
+.news-content {
+  margin-top: 0;
+  line-height: 1.4;
+  position: relative;
+  transition: transform 0.3s ease;
+  z-index: auto;
+  font-size: 0.95em
+}
+
+.news-item:hover .news-content {
+  transform: translateX(4px)
+}
