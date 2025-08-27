@@ -9,8 +9,8 @@
   padding-bottom: 20px; 
   scroll-behavior: smooth;
   pointer-events: auto;
-  -webkit-mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
-  mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, var(--global-bg-color) 15%, var(--global-bg-color) 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, transparent 0%, var(--global-bg-color) 15%, var(--global-bg-color) 85%, transparent 100%);
   isolation: isolate;
   z-index: 0
 }
