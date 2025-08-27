@@ -60,7 +60,8 @@
 
 .news-date {
   font-weight: 600;
-  color: #003262;
+  color: var(--global-theme-color);
+  margin-top: 0;
   margin-bottom: 0.1rem;
   font-size: 0.95em;
   position: relative;
