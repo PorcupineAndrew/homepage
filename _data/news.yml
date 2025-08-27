@@ -1,22 +1,37 @@
 main:
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Sep. 2025
+    content: I'm giving a talk on stealthy BGP hijacking at APNIC 60. See you in Da Nang, Vietnam!
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Aug. 2025
+    content: Our stealthy BGP hijacking paper was accepted to NDSS 2026! 🎉
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Jun. 2025
+    content: Our lighweight consensus paper was accepted to Journal of Software! 🎉
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Feb. 2025
+    content: I gave a talk on BGP anomaly detection at APRICOT 2025 in Petaling Jaya, Malaysia! Had a great conversation with fellows at Kentik!
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Jan. 2025
+    content: I gave a talk on BGP anomaly detection at InForSec 2025 in Beijing, China! Had a great conversation with fellows at CAS!
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Jan. 2025
+    content: Our BGP anomaly detection poster at Westlake Forum won the only Best Poster Award! 🎉
 
-  - date: Feb. 2020
-    content: Our paper about incremental learning is accepted to CVPR 2020.
+  - date: Novv. 2024
+    content: I gave a talk on BGP anomaly detection at ChinaCrypt 2024 in Hangzhou, China! Had a great conversation with fellows at ZJU!
+
+  - date: Aug. 2024
+    content: I presented our BGP anomaly detection paper at USENIX Security 2024. We received the Distinguished Paper Award and the only Internet Defense Prize! 🎉
+
+  - date: Jan. 2024
+    content: Our BGP anomaly detection paper was accepted to USENIX Security 2024! 🎉
+
+  - date: Jun. 2023
+    content: Our encrypted traffic detection paper was accepted to NDSS 2024! 🎉
+
+  - date: May 2023
+    content: Our root cause localization paper was accepted to Journal of Systems and Software! 🎉
+
+  - date: May 2023
+    content: Our root cause localization paper was accepted to Journal of Systems and Software! 🎉
