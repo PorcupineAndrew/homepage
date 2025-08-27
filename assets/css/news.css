@@ -9,14 +9,14 @@
   padding-bottom: 20px; 
   scroll-behavior: smooth;
   pointer-events: auto;
-  -webkit-mask-image: linear-gradient(to bottom, #fff 85%, transparent 100%);
-  mask-image: linear-gradient(to bottom, #fff 85%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
   isolation: isolate;
   z-index: 0
 }
 
 .news-timeline::-webkit-scrollbar {
-  width: 6px
+  width: 3px
 }
 
 .news-timeline::-webkit-scrollbar-track {
