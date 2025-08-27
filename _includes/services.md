@@ -1,16 +1,21 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 ;">> Teaching Assistant</h4>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
+<div style="margin-bottom: 12px;">
+  <div style="margin: 0; display: flex; justify-content: space-between; align-items: center;">
+      <span><b>Foundations and Frontiers of Cyberspace Security (74120023-0, Tsinghua)</b></span>
+      <span>Fall 2022, Fall 2023, Fall 2024, Fall 2025</span>
+  </div>
+  <p style="margin-bottom: 0;">Core graduate-level CS course (~80 students)</p>
+  <p style="margin-bottom: 0;">I redesigned grading guidelines beyond regular TA work</p>
+</div>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+<div style="margin-bottom: 12px;">
+  <div style="margin: 0; display: flex; justify-content: space-between; align-items: center;">
+      <span><b>Foundations and Frontiers of Cyberspace Security (74120023-0, Tsinghua)</b></span>
+      <span>Fall 2022, Fall 2023, Fall 2024, Fall 2025</span>
+  </div>
+  <p style="margin-bottom: 0;">Core graduate-level CS course (~80 students)</p>
+  <p style="margin-bottom: 0;">I redesigned grading guidelines beyond regular TA work</p>
+</div>
