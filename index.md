@@ -4,12 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Hi! I am a Ph.D. candidate in Computer Science at Tsinghua University (expeced graduation: June 2026), co-advised by Prof. Jianping Wu and Prof. Qi Li in the Network & Information Security Lab (NISL). My research focuses on Internet routing security in the AI era. I am passinate about developing practical, AI-driven solutions to address both enduring and emerging threats in today's Internet routing system. I strive to turn my research into impactful and deployable systems.
 
 ## News
 
