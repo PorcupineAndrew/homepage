@@ -24,12 +24,12 @@
 }
 
 .news-timeline::-webkit-scrollbar-thumb {
-  background: rgba(0,150,255,0.5);  /* bright blue for contrast */
+  background: rgba(36, 150, 203, 0.5);  /* bright blue for contrast */
   border-radius:10px;
 }
 
 .news-timeline::-webkit-scrollbar-thumb:hover {
-  background: rgba(0,150,255,0.7);
+  background: rgba(36, 150, 203, 0.7);
 }
 
 .news-item {
