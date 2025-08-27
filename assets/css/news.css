@@ -34,7 +34,7 @@
 
 .news-item {
   position: relative; 
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.6rem;
   padding-left: 2.5rem;
   z-index: auto
 }
@@ -44,25 +44,25 @@
   position: absolute;
   left: 0;
   top: 0.35rem;
-  width: 0.4rem;
+  width: 0.6rem;
   height: 0.6rem;
   border-radius: 50%;
   background-color: var(--global-theme-color);
-  transform: translateX(0.6rem);
+  transform: translateX(0.8rem);
   transition: all 0.3s ease;
   z-index: 1
 }
 
 .news-item:hover::before {
   background-color: var(--global-theme-color);
-  transform: translateX(0.6rem) scale(1.2)
+  transform: translateX(0.8rem) scale(1.2)
 }
 
 .news-date {
   font-weight: 600;
-  color: var(--global-theme-color);
+  color: #003262;
   margin-bottom: 0.1rem;
-  font-size: 1em;
+  font-size: 0.95em;
   position: relative;
   z-index: auto
 }
@@ -73,7 +73,7 @@
   position: relative;
   transition: transform 0.3s ease;
   z-index: auto;
-  font-size: 1em
+  font-size: 0.95em
 }
 
 .news-item:hover .news-content {
