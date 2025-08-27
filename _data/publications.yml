@@ -1,5 +1,21 @@
 main:
 
+  - title: Understanding the Stealthy BGP Hijacking Risk in the ROV Era
+    authors: <b><u>Yihao Chen</u></b>, Qi Li, Ke Xu, Zhuotao Liu, Jianping Wu
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium 2026 (NDSS'26).
+    pdf: https://drive.google.com/file/d/1Q-KsPkXjgpsazmTb6JMXIFQ-PIywImVc/view?usp=sharing
+    code: https://github.com/anonymized-for-review/stealthy-bgp-hijacking
+    image: ./assets/img/teaser_ndss26.png
+    notes: To Appear
+    
+  - title: Research on Lightweight Consensus Mechanism based on Validated Address
+    authors: Yi Xu, <b><u>Yihao Chen</u></b>, Xiaoliang Wang, Ke Xu, Qi Li
+    conference_short: JOS
+    conference: Journal of Software (ISSN 1000-9825; in Chinese)
+    image: ./assets/img/teaser_jos.png
+    notes: To Appear
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
