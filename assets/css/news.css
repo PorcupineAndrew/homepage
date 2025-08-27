@@ -44,18 +44,18 @@
   position: absolute;
   left: 0;
   top: 0.35rem;
-  width: 0.6rem;
-  height: 0.6rem;
+  width: 0.4rem;
+  height: 0.4rem;
   border-radius: 50%;
   background-color: var(--global-theme-color);
-  transform: translateX(0.8rem);
+  transform: translateX(0.6rem);
   transition: all 0.3s ease;
   z-index: 1
 }
 
 .news-item:hover::before {
   background-color: var(--global-theme-color);
-  transform: translateX(0.8rem) scale(1.2)
+  transform: translateX(0.6rem) scale(1.2)
 }
 
 .news-date {
