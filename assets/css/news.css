@@ -9,15 +9,17 @@
   padding-bottom: 20px; 
   scroll-behavior: smooth;
   pointer-events: auto;
-  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, var(--global-bg-color) 15%, var(--global-bg-color) 85%, transparent 100%);
-  mask-image: linear-gradient(to bottom, transparent 0%, var(--global-bg-color) 15%, var(--global-bg-color) 85%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
   isolation: isolate;
   z-index: 0
 }
 
+/*
 .news-timeline::-webkit-scrollbar {
-  width: 3px
+  width: 6px
 }
+
 
 .news-timeline::-webkit-scrollbar-track {
   background: #f1f1f1;
@@ -32,6 +34,7 @@
 .news-timeline::-webkit-scrollbar-thumb:hover {
   background: rgba(0,50,98,0.7)
 }
+*/
 
 .news-timeline::before {
   content: ''; 
