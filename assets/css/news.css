@@ -15,26 +15,24 @@
   z-index: 0
 }
 
-/*
+/* Scrollbar */
 .news-timeline::-webkit-scrollbar {
-  width: 6px
+  width: 6px;
 }
 
-
 .news-timeline::-webkit-scrollbar-track {
-  background: #f1f1f1;
-  border-radius: 10px
+  background: #222;  /* darker track */
+  border-radius: 10px;
 }
 
 .news-timeline::-webkit-scrollbar-thumb {
-  background: rgba(0,50,98,0.5);
-  border-radius:10px
+  background: rgba(0,150,255,0.5);  /* bright blue for contrast */
+  border-radius:10px;
 }
 
 .news-timeline::-webkit-scrollbar-thumb:hover {
-  background: rgba(0,50,98,0.7)
+  background: rgba(0,150,255,0.7);
 }
-*/
 
 .news-timeline::before {
   content: ''; 
@@ -43,7 +41,7 @@
   bottom: 0;
   left: 0;
   width: 1.5px;
-  background-color: rgba(0,50,98,0.3);
+  background-color: var(--global-theme-color);
   z-index: auto;
   height: 100%;
   transform: translateX(1.1rem)
