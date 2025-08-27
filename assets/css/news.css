@@ -2,15 +2,15 @@
   position: relative; 
   display: block; 
   clear: both; 
-  margin: 2em 0 3em 0;
-  max-height:150px; 
+  margin: 2rem 0 2rem 0;
+  max-height: 150px; 
   overflow-y: auto; 
   padding-right: 10px;
   padding-bottom: 20px; 
   scroll-behavior: smooth;
   pointer-events: auto;
-  -webkit-mask-image: linear-gradient(to bottom, #000 85%, transparent 100%);
-  mask-image: linear-gradient(to bottom, #000 85%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, #fff 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #fff 85%, transparent 100%);
   isolation: isolate;
   z-index: 0
 }
