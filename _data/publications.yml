@@ -34,9 +34,24 @@ main:
     image: ./assets/img/teaser_ndss24.png
 
   - title: "Generic and Robust Root Cause Localization for Multi-Dimensional Data in Online Service Systems"
-    authors: Zeyan Li, Junjie Chen, Yihao Chen, Chengyang Luo, Yiwei Zhao, Yongqian Sun, Kaixin Sui, Xiping Wang, Dapeng Liu, Xing Jin, Qi Wang, Dan Pei 
+    authors: Zeyan Li, Junjie Chen, <b><u>Yihao Chen</u></b>, Chengyang Luo, Yiwei Zhao, Yongqian Sun, Kaixin Sui, Xiping Wang, Dapeng Liu, Xing Jin, Qi Wang, Dan Pei 
     conference_short: JSS
     conference: "The Journal of Systems and Software 203 (2023): 111748"
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0164121223001437
     code: https://github.com/netmanaiops/psqueeze
     image: ./assets/img/teaser_jss.png
+
+  - title: "LogParse: Making Log Parsing Adaptive through Word Classification"
+    authors: Weibin Meng, Ying Liu, Federico Zaiter, Shenglin Zhang, <b><u>Yihao Chen</u></b>, Yuzhe Zhang, Yichen Zhu, En Wang, Ruizhi Zhang, Shimin Tao, Dian Yang, Rong Zhou, Dan Pei
+    conference_short: ICCCN
+    conference: "The 29th International Conference on Computer Communications and Networks (ICCCN'20)"
+    pdf: https://ieeexplore.ieee.org/document/9209681
+    code: https://github.com/NetManAIOps/LogParse
+    image: ./assets/img/teaser_icccn20.png
+
+  - title: "LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs"
+    authors: Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, <b><u>Yihao Chen</u></b>, Ruizhi Zhang, Shimin Tao, Pei Sun, Rong Zhou
+    conference_short: IJCAI
+    conference: "The 28th International Joint Conference on Artificial Intelligence (IJCAI'19)"
+    pdf: https://www.ijcai.org/proceedings/2019/658
+    image: ./assets/img/teaser_ijcai19.png
