@@ -13,6 +13,7 @@ main:
     authors: Yi Xu, <b><u>Yihao Chen</u></b>, Xiaoliang Wang, Ke Xu, Qi Li
     conference_short: JOS
     conference: The Journal of Software (ISSN 1000-9825; in Chinese)
+    pdf: https://www.jos.org.cn/jos/article/abstract/pL034
     image: ./assets/img/teaser_jos.png
     notes: "To Appear"
 
