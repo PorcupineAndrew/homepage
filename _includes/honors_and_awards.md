@@ -1,6 +1,6 @@
 ## Honors and Awards
 
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 12px;">
   <div style="margin: 0; display: flex; justify-content: space-between; align-items: center;">
       <span><b>Distinguished Paper Award (15/2276, top 0.7%)</b>, the 33rd USENIX Security Symposium</span>
       <span>2024</span>
