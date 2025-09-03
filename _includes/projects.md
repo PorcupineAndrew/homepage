@@ -2,7 +2,7 @@
 
 <div style="margin-bottom: 12px;">
   <div style="margin-bottom: 0; display: flex; justify-content: space-between; align-items: center;">
-      <span>matrix-bgpsim: A fast and efficient matrix-based BGP simulator with GPU acceleration</span>
+      <span><b>matrix-bgpsim: A fast and efficient matrix-based BGP simulator with GPU acceleration</b></span>
       <span>Aug. 2025 &ndash; present</span>
   </div>
   <div style="margin-bottom: 0; display: flex; justify-content: space-between; align-items: center;">
