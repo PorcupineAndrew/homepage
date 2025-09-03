@@ -1,6 +1,9 @@
 main:
 
   - date: Sep. 2025
+    content: `matrix-bgpsim v1.0.1` is out! A fast, efficient matrix-based BGP simulator with GPU acceleration. [Give it a try!](https://github.com/yhchen-tsinghua/matrix-bgpsim)
+
+  - date: Sep. 2025
     content: I'm giving a talk on stealthy BGP hijacking at APNIC 60. See you in Da Nang, Vietnam!
 
   - date: Aug. 2025
