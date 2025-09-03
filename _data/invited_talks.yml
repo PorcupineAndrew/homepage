@@ -1,0 +1,19 @@
+main:
+
+  - theme: "<b>Understanding the Stealthy BGP Hijacking Risk in the ROV Era</b>"
+    venues:
+      - venue: "<i>The 60th Asia Pacific Network Information Center Conference (APNIC'60)</i> in Da Nang, Vietnam"
+        time: 2025
+
+  - theme: "<b>Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System</b>"
+    venues:
+      - venue: "<i>2025 Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT'25)</i> in Petaling Jaya, Malaysia"
+        time: 2025
+      - venue: "<i>2025 International Forum for Security Research (InForSec'25)</i> in Beijing, China"
+        time: 2025
+      - venue: "<i>The 8th Westlake International Forum on Cyber Security Research</i> in Hangzhou, China"
+        time: 2025
+      - venue: "<i>2024 Annual Conference of Chinese Association for Cryptologic Research (ChinaCrypt'24)</i> in Hangzhou, China"
+        time: 2024
+      - venue: "<i>The 33rd USENIX Security Symposium (Security'24)</i> in Philadelphia, USA"
+        time: 2024
