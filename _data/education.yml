@@ -1,0 +1,12 @@
+main:
+
+  - affiliation: "<b>Ph.D. in Computer Science, Tsinghua University</b>, Beijing, China"
+    time: "Sep. 2021 &ndash; present"
+    additional:
+      - content: "Thesis: <i>Defense Mechanisms for Internet Inter-domain Routing Anomalies</i>"
+      - content: "Co-advisors: Prof. Jianping Wu and Prof. Qi Li"
+  - affiliation: "<b>B.Eng. in Computer Science, Tsinghua University</b>, Beijing, China"
+    time: "Sep. 2017 &ndash; Jun. 2021"
+    additional:
+      - content: "Thesis: <i>BGP Anomaly Detection Based on Network Representation Learning</i>"
+      - content: "Advisor: Prof. Qi Li"

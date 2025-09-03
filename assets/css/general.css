@@ -1,0 +1,10 @@
+.grouped-entry {
+    margin-bottom: 12px;
+}
+
+.timed-entry {
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
