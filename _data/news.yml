@@ -1,10 +1,13 @@
 main:
 
   - date: Sep. 2025
-    content: 'matrix-bgpsim v1.0.1 is out! A fast, efficient matrix-based BGP simulator with GPU acceleration. <a href="https://github.com/yhchen-tsinghua/matrix-bgpsim">Give it a try!</a>'
+    content: "Our stealthy BGP hijacking paper received <i>available</i>, <i>functional</i>, and <i>reproduced</i> badges in NDSS 2026 Artefact Evaluation! 🎉"
 
   - date: Sep. 2025
     content: I'm giving a talk on stealthy BGP hijacking at APNIC 60. See you in Da Nang, Vietnam!
+
+  - date: Sep. 2025
+    content: 'matrix-bgpsim v1.0.1 was out! A fast, efficient matrix-based BGP simulator with GPU acceleration. <a href="https://github.com/yhchen-tsinghua/matrix-bgpsim">Give it a try!</a>'
 
   - date: Aug. 2025
     content: Our stealthy BGP hijacking paper was accepted to NDSS 2026! 🎉
@@ -21,7 +24,7 @@ main:
   - date: Jan. 2025
     content: Our BGP anomaly detection poster at Westlake Forum won the only Best Poster Award! 🎉
 
-  - date: Novv. 2024
+  - date: Nov. 2024
     content: I gave a talk on BGP anomaly detection at ChinaCrypt 2024 in Hangzhou, China! Had a great conversation with fellows at ZJU!
 
   - date: Aug. 2024
