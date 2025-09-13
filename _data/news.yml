@@ -1,10 +1,10 @@
 main:
 
   - date: Sep. 2025
-    content: "Our stealthy BGP hijacking paper received <i>available</i>, <i>functional</i>, and <i>reproduced</i> badges in NDSS 2026 Artefact Evaluation! 🎉"
+    content: 'I gave a <a href="https://www.youtube.com/live/mFcH38Goc7U">talk on stealthy BGP hijacking</a> and a <a href="https://www.youtube.com/live/P_Pui1qBQGs">lightning talk on LLM for BGP</a> at APNIC 60 in Da Nang, Vietnam! Had a great conversation with Geoff!'
 
   - date: Sep. 2025
-    content: I'm giving a talk on stealthy BGP hijacking at APNIC 60. See you in Da Nang, Vietnam!
+    content: "Our stealthy BGP hijacking paper received <i>available</i>, <i>functional</i>, and <i>reproduced</i> badges in NDSS 2026 Artefact Evaluation! 🎉"
 
   - date: Sep. 2025
     content: 'matrix-bgpsim v1.0.1 was out! A fast, efficient matrix-based BGP simulator with GPU acceleration. <a href="https://github.com/yhchen-tsinghua/matrix-bgpsim">Give it a try!</a>'
