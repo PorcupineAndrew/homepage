@@ -5,7 +5,7 @@ main:
     conference_short: NDSS
     conference: The Network and Distributed System Security Symposium 2026 (NDSS'26)
     pdf: https://drive.google.com/file/d/1894aGcP3e_ZUu5APzj4R7dIft7bjs5Op/view?usp=drive_link
-    code: https://github.com/anonymized-for-review/stealthy-bgp-hijacking
+    code: https://github.com/yhchen-tsinghua/stealthy-bgp-hijacking
     image: ./assets/img/teaser_ndss26.png
     notes: "To Appear"
     
