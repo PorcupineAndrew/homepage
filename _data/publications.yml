@@ -8,6 +8,13 @@ main:
     code: https://github.com/yhchen-tsinghua/stealthy-bgp-hijacking
     image: ./assets/img/teaser_ndss26.png
     notes: "To Appear"
+
+  - title: "Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions"
+    authors: Yixiang Zhang, Xinhao Deng, Zhongyi Gu, <b><u>Yihao Chen</u></b>, Ke Xu, Qi Li, Jianping Wu
+    conference_short: arXiv
+    conference: arXiv preprint (arXiv:2510.07176)
+    pdf: https://arxiv.org/abs/2510.07176
+    image: ./assets/img/teaser_arxiv25.png
     
   - title: "Lightweight Consensus Mechanism Based on Source Address Validation"
     authors: Yi Xu, <b><u>Yihao Chen</u></b>, Xiaoliang Wang, Ke Xu, Qi Li
