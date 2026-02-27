@@ -7,7 +7,6 @@ main:
     pdf: https://drive.google.com/file/d/1894aGcP3e_ZUu5APzj4R7dIft7bjs5Op/view?usp=drive_link
     code: https://github.com/yhchen-tsinghua/stealthy-bgp-hijacking
     image: ./assets/img/teaser_ndss26.png
-    notes: "To Appear"
 
   - title: "Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions"
     authors: Yixiang Zhang, Xinhao Deng, Zhongyi Gu, <b><u>Yihao Chen</u></b>, Ke Xu, Qi Li, Jianping Wu

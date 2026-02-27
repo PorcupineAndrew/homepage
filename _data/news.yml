@@ -1,4 +1,7 @@
 main:
+  - date: Feb. 2026
+    content: I gave a virtual <a href="https://drive.google.com/file/d/1xnKxTxuDcybMrjZArLS6HKAJqhVtLuIw/view?usp=drive_link">talk on adversarial ASRank manipulation</a> at CAIDA AIMS-19. Had a great conversation with kc and the brilliant people from the measurement community!
+
   - date: Oct. 2025
     content: My <a href="https://blog.apnic.net/2025/10/16/understanding-stealthy-bgp-hijacking-risk-in-the-rov-era/">post on stealthy BGP hijacking</a> was published on APNIC blog. Big thanks to Dan for the editing help!
 
