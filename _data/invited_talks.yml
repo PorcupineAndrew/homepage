@@ -1,4 +1,8 @@
 main:
+  - theme: "<b>Adversarial Manipulation Risks in Internet Measurement: A Case Study of ASRank</b>"
+    venues:
+      - venue: "<i>CAIDA AIMS-19 Workshop</i> in San Diego, USA"
+        time: 2026
 
   - theme: "<b>Understanding the Stealthy BGP Hijacking Risk in the ROV Era</b>"
     venues:
