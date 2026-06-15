@@ -1,18 +1,19 @@
 .news-timeline {
-  position: relative; 
-  display: block; 
-  clear: both; 
+  position: relative;
+  display: block;
+  clear: both;
   margin: 1rem 0 2rem 0;
-  max-height: 150px; 
-  overflow-y: auto; 
+  max-height: 150px;
+  overflow-y: auto;
   padding-right: 10px;
-  padding-bottom: 20px; 
+  padding-bottom: 20px;
   scroll-behavior: smooth;
   pointer-events: auto;
-  -webkit-mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
-  mask-image: linear-gradient(to bottom, var(--global-bg-color) 85%, transparent 100%);
+  scrollbar-color: var(--color-scrollbar-thumb) var(--color-bg);
+  -webkit-mask-image: linear-gradient(to bottom, #000000 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000000 85%, transparent 100%);
   isolation: isolate;
-  z-index: 0
+  z-index: 0;
 }
 
 .news-timeline::-webkit-scrollbar {
@@ -20,23 +21,23 @@
 }
 
 .news-timeline::-webkit-scrollbar-track {
-  background: var(--global-bg-color);
+  background: var(--color-bg);
 }
 
 .news-timeline::-webkit-scrollbar-thumb {
-  background: rgba(36, 150, 203, 0.5);  /* bright blue for contrast */
+  background: var(--color-scrollbar-thumb);
   border-radius:10px;
 }
 
 .news-timeline::-webkit-scrollbar-thumb:hover {
-  background: rgba(36, 150, 203, 0.7);
+  background: var(--color-scrollbar-thumb-hover);
 }
 
 .news-item {
-  position: relative; 
+  position: relative;
   margin-bottom: 0.6rem;
   padding-left: 2.5rem;
-  z-index: auto
+  z-index: auto;
 }
 
 .news-item::before {
@@ -47,25 +48,25 @@
   width: 0.4rem;
   height: 0.4rem;
   border-radius: 50%;
-  background-color: var(--global-theme-color);
+  background-color: var(--color-accent);
   transform: translateX(0.6rem);
   transition: all 0.3s ease;
-  z-index: 1
+  z-index: 1;
 }
 
 .news-item:hover::before {
-  background-color: var(--global-theme-color);
-  transform: translateX(0.6rem) scale(1.2)
+  background-color: var(--color-accent);
+  transform: translateX(0.6rem) scale(1.2);
 }
 
 .news-date {
   font-weight: 600;
-  color: var(--global-theme-color);
+  color: var(--color-accent);
   margin-top: 0;
   margin-bottom: 0.1rem;
   font-size: 0.95em;
   position: relative;
-  z-index: auto
+  z-index: auto;
 }
 
 .news-content {
@@ -74,9 +75,9 @@
   position: relative;
   transition: transform 0.3s ease;
   z-index: auto;
-  font-size: 0.95em
+  font-size: 0.95em;
 }
 
 .news-item:hover .news-content {
-  transform: translateX(4px)
+  transform: translateX(4px);
 }

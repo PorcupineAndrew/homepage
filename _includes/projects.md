@@ -8,17 +8,17 @@
     <span>{{ link.time }}</span>
   </div>
   <div class="timed-entry">
-    <span style="display: flex; align-items: center; gap: 4px;">
+    <span class="project-badges">
 
     {% for badge in link.badges %}
 
-      <a href="{{ badge.href }}"><img src="{{ badge.img_src }}" alt="{{ badge.img_alt }}" style="height: 18px; vertical-align: middle;"></a>
+      <a href="{{ badge.href }}"><img class="project-badge" src="{{ badge.img_src }}" alt="{{ badge.img_alt }}"></a>
 
     {% endfor %}
 
     </span>
 
-    <span style="align-self: center;">{{ link.role }}</span>
+    <span class="project-role">{{ link.role }}</span>
 
   </div>
 </div>

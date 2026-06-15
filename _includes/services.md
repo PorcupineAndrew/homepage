@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin: 0;">Teaching Assistant</h4>
+<h4 class="section-subheading">Teaching Assistant</h4>
 
 {% for link in site.data.teaching.main %}
 
@@ -12,7 +12,7 @@
 
     {% for item in link.additional %}
 
-  <p style="margin-bottom: 0;">{{ item.content }}</p>
+  <p class="entry-note">{{ item.content }}</p>
 
     {% endfor %}
 
@@ -20,7 +20,7 @@
 
 {% endfor %}
 
-<h4 style="margin: 0;">Peer Reviewer</h4>
+<h4 class="section-subheading">Peer Reviewer</h4>
 
-<p style="margin-bottom: 0;"><b>Journal Reviewer:</b> IEEE TDSC</p>
-<p style="margin-bottom: 0;"><b>External Reviewer:</b> USENIX Security 2022/2023, ISOC NDSS 2022/2023/2024/2025/2026, ACM CCS 2022/2023/2024/2025, ACM WWW 2025, IEEE ICNP 2025, ACM ASIACCS 2022/2024</p>
+<p class="entry-note"><b>Journal Reviewer:</b> IEEE TDSC</p>
+<p class="entry-note"><b>External Reviewer:</b> USENIX Security 2022/2023, ISOC NDSS 2022/2023/2024/2025/2026, ACM CCS 2022/2023/2024/2025, ACM WWW 2025, IEEE ICNP 2025, ACM ASIACCS 2022/2024</p>

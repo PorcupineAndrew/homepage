@@ -3,7 +3,7 @@
 {% for link in site.data.invited_talks.main %}
 
 <div class="grouped-entry">
-  <p style="margin-bottom: 0;">{{ link.theme }}</p>
+  <p class="entry-note">{{ link.theme }}</p>
 
     {% for item in link.venues %}
 
