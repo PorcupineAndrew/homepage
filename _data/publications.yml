@@ -1,4 +1,11 @@
 main:
+  - title: "ASRogue: Manipulating ASRank-Inferred AS Relationships"
+    authors: Yi Xu, <b><u>Yihao Chen</u></b>, Ke Xu, Qi Li, Jianping Wu
+    conference_short: USENIX Security
+    conference: The 35th USENIX Security Symposium (USENIX Security'26)
+    pdf: https://drive.google.com/file/d/1bmh73CSTKb75GAyA1n-6zt6Vpb1nUC43/view?usp=drive_link
+    code: https://doi.org/10.5281/zenodo.20397489
+    notes: "To appear"
 
   - title: "Understanding the Stealthy BGP Hijacking Risk in the ROV Era"
     authors: <b><u>Yihao Chen</u></b>, Qi Li, Ke Xu, Zhuotao Liu, Jianping Wu
