@@ -1,7 +1,3 @@
-.pub-row {
-  display: flex; 
-  align-items: center;}
-
 .social-icons a{
   display:inline-block;
   height:2.4rem;
@@ -465,10 +461,6 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
-  .pub-row {
-  display: flex; 
-  align-items: center;}
-
   div.wrapper {
     width:auto;
     margin:0;
@@ -524,10 +516,6 @@ footer {
     padding:15px;
   }
 
-  .pub-row {
-  display: flex; 
-  align-items: center;}
-
   header {
     padding:0;
   }
@@ -542,10 +530,6 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
-
-  .pub-row {
-    display: block; 
-    align-items: center;}
 
   body {
     padding:15px;
