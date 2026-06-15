@@ -66,3 +66,13 @@
 .publication-note {
   color: var(--color-note);
 }
+
+@media print, screen and (max-width: 480px) {
+  .publication-item {
+    padding-left: 1.9rem;
+  }
+
+  .publication-item::before {
+    left: 0.35rem;
+  }
+}
