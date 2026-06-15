@@ -22,5 +22,5 @@
 
 <h4 class="section-subheading">Peer Reviewer</h4>
 
-<p class="entry-note"><b>Journal Reviewer:</b> IEEE TDSC</p>
+<p class="entry-note"><b>Journal Reviewer:</b> IEEE TDSC, ACM TOPS</p>
 <p class="entry-note"><b>External Reviewer:</b> USENIX Security 2022/2023, ISOC NDSS 2022/2023/2024/2025/2026, ACM CCS 2022/2023/2024/2025, ACM WWW 2025, IEEE ICNP 2025, ACM ASIACCS 2022/2024</p>
