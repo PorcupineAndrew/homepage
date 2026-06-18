@@ -1,4 +1,6 @@
 main:
+  - award: "<b>Outstanding Graduate of Beijing Higher Education Institutions</b>, Beijing Municipal Education Commission"
+    time: "2026"
   - award: "<b>National Scholarship (Doctorate)</b>, Ministry of Education of the P.R. China"
     time: "2025"
   - award: "<b>Distinguished Paper Award (15/2276, top 0.7%)</b>, the 33rd USENIX Security Symposium"
