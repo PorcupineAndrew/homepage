@@ -1,0 +1,21 @@
+main:
+
+  - title: "<b>matrix-bgpsim:</b> A fast and efficient matrix-based BGP simulator with GPU acceleration"
+    time: "Aug. 2025 &ndash; present"
+    role: "Developer & Maintainer"
+    badges:
+      - img_src: "https://img.shields.io/github/release/yhchen-tsinghua/matrix-bgpsim.svg?maxAge=600"
+        img_alt: "Latest release"
+        href: "https://github.com/yhchen-tsinghua/matrix-bgpsim/releases/latest"
+      - img_src: "https://img.shields.io/pypi/v/matrix-bgpsim.svg?maxAge=600"
+        img_alt: "PyPI version"
+        href: "https://pypi.org/project/matrix-bgpsim/"
+      - img_src: "https://readthedocs.org/projects/matrix-bgpsim/badge/?version=latest"
+        img_alt: "Docs status"
+        href: "https://matrix-bgpsim.readthedocs.io/en/latest/"
+      - img_src: "https://img.shields.io/badge/python-3.8%2B-brightgreen.svg?maxAge=2592000"
+        img_alt: "Python version"
+        href: "https://www.python.org/"
+      - img_src: "https://img.shields.io/badge/license-MIT-yellowgreen.svg?maxAge=2592000"
+        img_alt: "License"
+        href: "https://opensource.org/license/mit"

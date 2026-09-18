@@ -1,0 +1,51 @@
+main:
+  - date: Jun. 2026
+    content: Our adversarial ASRank manipulation paper was accepted to USENIX Security 2026! 🎉
+
+  - date: Feb. 2026
+    content: I gave a virtual <a href="https://drive.google.com/file/d/1xnKxTxuDcybMrjZArLS6HKAJqhVtLuIw/view?usp=drive_link">talk on adversarial ASRank manipulation</a> at CAIDA AIMS-19. Had a great conversation with kc and the brilliant people from the measurement community!
+
+  - date: Oct. 2025
+    content: My <a href="https://blog.apnic.net/2025/10/16/understanding-stealthy-bgp-hijacking-risk-in-the-rov-era/">post on stealthy BGP hijacking</a> was published on APNIC blog. Big thanks to Dan for the editing help!
+
+  - date: Sep. 2025
+    content: I gave a talk on stealthy BGP hijacking at ySec seminar hosted by ECNU! Had a great conversation with people at ECNU!
+
+  - date: Sep. 2025
+    content: 'I gave a <a href="https://www.youtube.com/live/mFcH38Goc7U">talk on stealthy BGP hijacking</a> and a <a href="https://www.youtube.com/live/P_Pui1qBQGs">lightning talk on LLM for BGP</a> at APNIC 60 in Da Nang, Vietnam! Had a great conversation with Geoff!'
+
+  - date: Sep. 2025
+    content: "Our stealthy BGP hijacking paper received <i>available</i>, <i>functional</i>, and <i>reproduced</i> badges in NDSS 2026 Artefact Evaluation! 🎉"
+
+  - date: Sep. 2025
+    content: 'matrix-bgpsim v1.0.1 was out! A fast, efficient matrix-based BGP simulator with GPU acceleration. <a href="https://github.com/yhchen-tsinghua/matrix-bgpsim">Give it a try!</a>'
+
+  - date: Aug. 2025
+    content: Our stealthy BGP hijacking paper was accepted to NDSS 2026! 🎉
+
+  - date: Jun. 2025
+    content: Our lightweight consensus paper was accepted to Journal of Software! 🎉
+
+  - date: Feb. 2025
+    content: I gave a talk on BGP anomaly detection at APRICOT 2025 in Petaling Jaya, Malaysia! Had a great conversation with people at Kentik!
+
+  - date: Jan. 2025
+    content: I gave a talk on BGP anomaly detection at InForSec 2025 in Beijing, China! Had a great conversation with people at CAS!
+
+  - date: Jan. 2025
+    content: Our BGP anomaly detection poster at Westlake Forum won the only Best Poster Award! 🎉
+
+  - date: Nov. 2024
+    content: I gave a talk on BGP anomaly detection at ChinaCrypt 2024 in Hangzhou, China! Had a great conversation with people at ZJU!
+
+  - date: Aug. 2024
+    content: I presented our BGP anomaly detection paper at USENIX Security 2024. We received the Distinguished Paper Award and the only Internet Defense Prize! 🎉
+
+  - date: Jan. 2024
+    content: Our BGP anomaly detection paper was accepted to USENIX Security 2024! 🎉
+
+  - date: Jun. 2023
+    content: Our encrypted traffic detection paper was accepted to NDSS 2024! 🎉
+
+  - date: May 2023
+    content: Our root cause localization paper was accepted to Journal of Systems and Software! 🎉

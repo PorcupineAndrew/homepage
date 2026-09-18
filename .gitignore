@@ -1,0 +1,10 @@
+_site
+.sass-cache
+*.gem
+.DS_Store
+.jekyll-cache
+.bundle/
+vendor/bundle/
+*.swp
+CV/.build/
+assets/files/.cv.*
