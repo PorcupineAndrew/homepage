@@ -58,6 +58,9 @@
         {% if site.email %}
         <div class="profile-email">{{ site.email }}</div>
         {% endif %}
+        {% if site.location %}
+        <div class="profile-location">{{ site.location }}</div>
+        {% endif %}
 
         {% if site.google_scholar or site.cv_link or site.github_link or site.linkedin or site.twitter %}
         <div class="social-icons">
